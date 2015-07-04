@@ -1,0 +1,17 @@
+{
+  "name": "Angular2-Blog",
+  "version": "1.0.0",
+  "description": "This is simple blog post for angular2",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gokhan Karadas",
+  "devDependencies": {
+    "yargs": "^3.10.0"
+  },
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.27",
+    "systemjs": "^0.18.1",
+    "typescript": "^1.5.0-beta"
+  }
+}
